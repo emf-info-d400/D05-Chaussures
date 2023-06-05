@@ -12,9 +12,8 @@ Lisez `avec attention` et faites les points suivants avec précision et dans cet
   - Créez quelques chaussures différentes avec des caractéristiques différentes.
   - Affichez vos chaussures.
   - Faites-les marcher et nettoyez-les afin de tester les fonctionnalités.
-  - Créez une chaussure droite 'Nike EMF' à 123.45 Frs. Dans une boucle faites-là marcher 110x. Nettoyez-la 1x. Faites-là marcher 2x.
+  - Créez une chaussure droite 'Nike EMF' à 123.45 Frs. Dans une boucle faites-la marcher 110x. Nettoyez-la 1x. Faites-la marcher 2x.
 
 
 ## RESTITUTION :
 1. Rendre ce devoir normalement par `push` GitHub
-2. Mettez le code de vos 2 classes Java en couleur dans un document Word que vous rendrez comme devoir sur Teams.
